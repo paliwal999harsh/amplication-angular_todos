@@ -1,5 +1,5 @@
 {
-  "name": "@angular-todos/admin",
+  "name": "@react-todos/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
